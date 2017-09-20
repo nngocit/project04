@@ -1,0 +1,54 @@
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\Extratext.exe.config
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\x64\tesseract.dll
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\x86\tesseract.dll
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\configs\config.cfg
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.cube.bigrams
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.cube.fold
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.cube.lm
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.cube.nn
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.cube.params
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.cube.size
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.cube.word-freq
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.tesseract_cube.nn
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\eng.traineddata
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\pdf.ttf
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\tessdata\pdf.ttx
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\Extratext.exe
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\Extratext.pdb
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\Patagames.Ocr.dll
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\bin\Debug\Patagames.Ocr.xml
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\obj\Debug\Extratext.csprojResolveAssemblyReference.cache
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\obj\Debug\Extratext.Form1.resources
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\obj\Debug\Extratext.Properties.Resources.resources
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\obj\Debug\Extratext.csproj.GenerateResource.Cache
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\obj\Debug\Extratext.exe
+c:\users\nnit\documents\visual studio 2015\Projects\Extratext\Extratext\obj\Debug\Extratext.pdb
+D:\Extratext\Extratext\bin\Debug\Extratext.exe.config
+D:\Extratext\Extratext\obj\Debug\Extratext.exe
+D:\Extratext\Extratext\obj\Debug\Extratext.pdb
+D:\Extratext\Extratext\bin\Debug\x64\tesseract.dll
+D:\Extratext\Extratext\bin\Debug\x86\tesseract.dll
+D:\Extratext\Extratext\bin\Debug\Extratext.exe
+D:\Extratext\Extratext\bin\Debug\Extratext.pdb
+D:\Extratext\Extratext\bin\Debug\Patagames.Ocr.dll
+D:\Extratext\Extratext\bin\Debug\Patagames.Ocr.xml
+D:\Extratext\Extratext\obj\Debug\Extratext.csprojResolveAssemblyReference.cache
+D:\Extratext\Extratext\obj\Debug\Extratext.Form1.resources
+D:\Extratext\Extratext\obj\Debug\Extratext.Properties.Resources.resources
+D:\Extratext\Extratext\obj\Debug\Extratext.csproj.GenerateResource.Cache
+D:\Extratext\Extratext\bin\Debug\tessdata\configs\config.cfg
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.cube.bigrams
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.cube.fold
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.cube.lm
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.cube.nn
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.cube.params
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.cube.size
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.cube.word-freq
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.tesseract_cube.nn
+D:\Extratext\Extratext\bin\Debug\tessdata\eng.traineddata
+D:\Extratext\Extratext\bin\Debug\tessdata\pdf.ttf
+D:\Extratext\Extratext\bin\Debug\tessdata\pdf.ttx
+D:\Extratext\Extratext\bin\Debug\tessdata\vie.traineddata
+D:\Extratext\Extratext\bin\Debug\tessdata\equ.traineddata
+D:\Extratext\Extratext\obj\Debug\Extratext.Form3.resources
+D:\Extratext\Extratext\obj\Debug\Extratext.Win32.resources
